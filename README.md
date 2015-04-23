@@ -1,2 +1,3 @@
 # hellogit
-learn gir
+learn git
+this is launched for learning github
